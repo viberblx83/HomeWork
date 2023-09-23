@@ -1,4 +1,4 @@
-# HomeWork
+# Python
 There are 2 files maked with python
 # Homework
 its prints Name Surname And age
